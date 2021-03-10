@@ -43,8 +43,8 @@ B<summit>.
 
 =head1 IMPLEMENTATION
 
-Acme is a subclass of Spiffy.pm. As a bonus, your perfect classes will be
-I<spiffy> as well.
+Acme is a subclass of L<Spiffy.pm|https://github.com/ingydotnet/spiffy-pm>.
+As a bonus, your perfect classes will be I<spiffy> as well.
 
 Acme also exports a function called C<acme> that returns a new Acme object.
 (which is_perfect).
